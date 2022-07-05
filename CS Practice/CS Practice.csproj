@@ -8,4 +8,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="20220702\20220702.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="20220702\20220702.cs" />
+  </ItemGroup>
+
 </Project>
