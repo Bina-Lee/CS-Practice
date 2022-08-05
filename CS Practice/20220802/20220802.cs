@@ -26,7 +26,7 @@ namespace chap15
     {
         static void Main(string[] args)
         {
-
+            
         }
     }
 }
